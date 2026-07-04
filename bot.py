@@ -34,7 +34,7 @@ except ImportError:
     sys.exit(1)
 
 try:
-    import turso_client
+    turso_client
 except ImportError:
     print("\033[91m✗ turso-client not installed. Run: pip install turso-client\033[0m")
     sys.exit(1)
