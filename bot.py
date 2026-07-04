@@ -53,8 +53,8 @@ class Colors:
 BOT_TOKEN = "8895771721:AAEV4m-fV6vo0JMs0N0LJsE_48p9rAJdfps"  # ← CHANGE THIS
 
 # Telegram API - Get from https://my.telegram.org/apps
-API_ID = 0  # ← CHANGE THIS (required for user account login via Telethon)
-API_HASH = ""  # ← CHANGE THIS
+API_ID = 39258483  # ← CHANGE THIS (required for user account login via Telethon)
+API_HASH = "cbfe59ad670084dac4381880f3ca6a35"  # ← CHANGE THIS
 
 # Turso DB - Get from https://turso.tech
 TURSO_DB_URL = "libsql://your-database.turso.io"  # ← CHANGE THIS
