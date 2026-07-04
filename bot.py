@@ -50,7 +50,7 @@ class Colors:
 # 🔴 IMPORTANT: Replace these with YOUR values
 
 # Telegram Bot Token (from @BotFather)
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # ← CHANGE THIS
+BOT_TOKEN = "8895771721:AAEV4m-fV6vo0JMs0N0LJsE_48p9rAJdfps"  # ← CHANGE THIS
 
 # Telegram API - Get from https://my.telegram.org/apps
 API_ID = 0  # ← CHANGE THIS (required for user account login via Telethon)
