@@ -57,8 +57,8 @@ API_ID = 39258483  # ← CHANGE THIS (required for user account login via Teleth
 API_HASH = "cbfe59ad670084dac4381880f3ca6a35"  # ← CHANGE THIS
 
 # Turso DB - Get from https://turso.tech
-TURSO_DB_URL = "libsql://your-database.turso.io"  # ← CHANGE THIS
-TURSO_AUTH_TOKEN = ""  # ← CHANGE THIS (leave empty for local Turso)
+TURSO_DB_URL = "libsql://account-account.aws-ap-south-1.turso.io"  # ← CHANGE THIS
+TURSO_AUTH_TOKEN = "eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJhIjoicnciLCJpYXQiOjE3ODMxNjQ1NTAsImlkIjoiMDE5ZjJjZTMtOTkwMS03ZWI1LWFkN2YtN2JiYzgxOWVjYTVmIiwia2lkIjoiUDI5VUNacU1mbXo4aG1nM3JvOFpuZ0RZdnVIWmk1d2lNZW92YmVIdDY0YyIsInJpZCI6IjAxMzBiZjg1LTY3ZTUtNDcxNy05ZGI3LWNhMzc2NjBlNGY2ZiJ9.S7S7uy8xFzx04cUk6kqxet_7h8wvdxCSK7KEKJ_GBaRW23dq6cjRuJkdP-6E4Retjcyewh-54C-qEavxTHHjAA"  # ← CHANGE THIS (leave empty for local Turso)
 
 SESSION_DIR = "sessions"
 os.makedirs(SESSION_DIR, exist_ok=True)
